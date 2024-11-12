@@ -11,9 +11,9 @@ db.Facilitators.insertOne({
 
 db.createCollection("Trainees")
 db.Trainees.insertOne({
-    Name: "Jane Smith",
+    Name: "Frankie mosehla",
     Location: "Polokwane",
-    Facilitator: "John Doe"
+    Facilitator: "Refilwe"
 })
 
 db.createCollection("Projects")
