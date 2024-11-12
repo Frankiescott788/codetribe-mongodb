@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Library Management System (LMS) is a MongoDB-based application that manages books, authors, and patrons. This project provides a database setup with collections to store information about books, authors, and patrons. It also includes various MongoDB shell commands to perform CRUD (Create, Read, Update, Delete) operations and advanced queries.
+This project provides a database setup with collections to store information about books, authors, and patrons. It also includes various MongoDB shell commands to perform CRUD (Create, Read, Update, Delete) operations and advanced queries.
 
 
 
