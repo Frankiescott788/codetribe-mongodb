@@ -1,4 +1,4 @@
-# Library Management System
+# Lesson 2
 
 ## Project Overview
 
