@@ -4,7 +4,7 @@ use Codetribe
 
 db.createCollection("Facilitators")
 db.Facilitators.insertOne({
-    Name: "John Doe",
+    Name: "Refilwe",
     Location: "Polokwane",
     Course: "Full-Stack Development"
 })
